@@ -1,5 +1,5 @@
 
-# Professional MERN LMS
+# Project Management Tool
 
 ## Backend
 cd backend
