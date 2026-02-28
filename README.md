@@ -1,5 +1,5 @@
 
-# Project Management Tool
+# LMS
 
 ## Backend
 cd backend
